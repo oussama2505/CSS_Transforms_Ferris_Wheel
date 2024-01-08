@@ -4,7 +4,7 @@ This project showcases a Ferris Wheel with rotating elements using HTML and CSS 
 
 ## Preview
 
-![Rotating Ferris Wheel Preview](Ferr)
+![Rotating Ferris Wheel Preview](image/Ferris_Weel_Preview.png)
 
 ## Getting Started
 
